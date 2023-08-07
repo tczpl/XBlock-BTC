@@ -72,6 +72,8 @@ def start():
 			download(localFile)
 	else:
 		return start()
+		
+	download("stat_Transaction.py")
 
 start()
 print("finish")
