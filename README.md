@@ -19,6 +19,6 @@ Finally, you can do anything you like with sample codes, e.g., `python3 stat_Tra
 # Paper
 If it is helpful, please kindly cite our paper: 
 
-Peilin Zheng, Xiapu Luo, and Zibin Zheng. "BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts." 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE). IEEE, 2023.
+Peilin Zheng, Xiapu Luo, and Zibin Zheng. "BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts." IEEE/ACM 45th International Conference on Software Engineering (ICSE). 2023.
 
 Thanks!
